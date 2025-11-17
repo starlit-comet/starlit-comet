@@ -6,6 +6,8 @@
 
 [![Email](https://img.shields.io/badge/Email-akshaitr031@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:akshaitr031@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshai%20TR-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akshai-tr)
+[![LeetCode](https://img.shields.io/badge/LeetCode-akshaitr-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/akshaitr/)
+
 <img src="https://github.com/starlit-comet/starlit-comet/blob/76c5e165d8a209036bfd3dc2a7015fd554934f9e/github-snake-dark.svg" />
 
 ---
